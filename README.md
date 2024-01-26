@@ -37,8 +37,11 @@ Agri-Capture a smart and user-friendly solution designed for both Android and iO
 ![agri-capture-mockup1](./agricapture/images/project_images/mockup1.png)
 ![agri-capture-mockup2](./agricapture/images/project_images/mockup2.png)
 
-## Demo Video
-[![Watch the video](https://img.youtube.com/vi/3r2SJHqDztk/maxresdefault.jpg)](https://youtu.be/3r2SJHqDztk)
+## [Demo Video](https://youtu.be/3r2SJHqDztk)
+
+https://github.com/Shrimad-Bhagwat/Agri-Capture/assets/51125208/0aed223a-da75-42e3-b66f-9a451a8c595d
+
+
 
 ## Results 🎉
 The source code files for the Agri-Capture Mobile App have been successfully completed and organized within the respective branches of this repository. 
