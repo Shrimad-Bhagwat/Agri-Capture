@@ -10,6 +10,7 @@ import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:weather/weather.dart';
 import '../model/farmer.dart';
+import 'package:agricapture/api-key.dart';
 
 class FarmerFormScreen extends StatefulWidget {
   const FarmerFormScreen({super.key});
@@ -20,7 +21,7 @@ class FarmerFormScreen extends StatefulWidget {
 
 class _FarmerFormScreenState extends State<FarmerFormScreen> {
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
-  static const String apiKey = "576193eec403e886278e5e612d9183f7";
+
 
   // Form Fields
   TextEditingController _nameController = TextEditingController();
