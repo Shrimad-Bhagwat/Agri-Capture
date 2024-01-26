@@ -42,6 +42,6 @@ The source code files for the Agri-Capture Mobile App have been successfully com
 
 Additionally, the Android Application Package (APK) file for the Android version of the application has been prepared for your convenience. 
 
-[Agri Capture APK Download]()
+[Agri Capture APK Download](https://github.com/Shrimad-Bhagwat/Agri-Capture/releases/download/agri_capture-v1.0.0/agri_capture-v1.0.0.apk)
 
 Let the farming adventure begin! 🚜✨
