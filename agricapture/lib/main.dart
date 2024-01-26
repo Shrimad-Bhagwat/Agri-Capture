@@ -57,6 +57,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// Request Permissions from user
 class PermissionHandlerScreen extends StatefulWidget {
   @override
   _PermissionHandlerScreenState createState() =>

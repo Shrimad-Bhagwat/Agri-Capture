@@ -22,7 +22,6 @@ class FarmerFormScreen extends StatefulWidget {
 class _FarmerFormScreenState extends State<FarmerFormScreen> {
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
-
   // Form Fields
   TextEditingController _nameController = TextEditingController();
   TextEditingController _addressController = TextEditingController();

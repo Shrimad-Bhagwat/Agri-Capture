@@ -31,7 +31,6 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Your logo or any introductory content
             Image.asset('images/logo.png', width: screenSize.width / 1.5),
             const SizedBox(height: 20),
             Text('Agri Capture',
